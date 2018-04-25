@@ -19,6 +19,6 @@ function dec(a) {
 function makeInt(a) {
   return parseInt(a)
 }
-function describeDecimal(a) {
+function describeDecimal(b) {
   return parseFloat(2.222)
 }

@@ -19,9 +19,12 @@ function dec(a) {
 function makeInt(a) {
   return parseInt(a)
 }
+function isNaN(a) {
+  return parseInt(sldkjflksjf)
+}
 function describeDecimal(a) {
   return parseFloat(2.222)
 }
 function isNaN(a) {
-  return parseFloat(sldkjflksjf)
+  return parseFloat('sldkjflksjf')
 }

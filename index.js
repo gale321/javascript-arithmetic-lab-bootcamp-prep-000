@@ -22,3 +22,6 @@ function makeInt(a) {
 function describeDecimal(a) {
   return parseFloat(2.222)
 }
+function isNaN(a) {
+  return parseFloat(sldkjflksjf)
+}

@@ -19,4 +19,4 @@ function dec(a) {
 function makeInt(a) {
   return parseInt(a)
 }
-function assumes base 10()
+function 'assumes base 10'()

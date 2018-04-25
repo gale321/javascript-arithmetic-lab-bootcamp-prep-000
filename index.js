@@ -17,5 +17,6 @@ function dec(a) {
   return a -= 1
 }
 function makeInt(a) {
-  return
+  return parseInt(12)
 }
+function 

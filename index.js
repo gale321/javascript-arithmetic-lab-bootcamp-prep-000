@@ -16,7 +16,7 @@ function inc(a) {
 function dec(a) {
   return a -= 1
 }
-Int(a) {
-  return parseInt(a)function make
+function makeInt(a) {
+  return parseInt(a)
 }
 function ()
